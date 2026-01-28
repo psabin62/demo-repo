@@ -1,1 +1,1 @@
-print("hello sabin")
+a=input("Enter oyur name")
